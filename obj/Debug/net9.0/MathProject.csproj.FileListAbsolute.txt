@@ -1,0 +1,14 @@
+c:\Projects\CsharpProjects\MathProject\bin\Debug\net9.0\MathProject.exe
+c:\Projects\CsharpProjects\MathProject\bin\Debug\net9.0\MathProject.deps.json
+c:\Projects\CsharpProjects\MathProject\bin\Debug\net9.0\MathProject.runtimeconfig.json
+c:\Projects\CsharpProjects\MathProject\bin\Debug\net9.0\MathProject.dll
+c:\Projects\CsharpProjects\MathProject\bin\Debug\net9.0\MathProject.pdb
+c:\Projects\CsharpProjects\MathProject\obj\Debug\net9.0\MathProject.GeneratedMSBuildEditorConfig.editorconfig
+c:\Projects\CsharpProjects\MathProject\obj\Debug\net9.0\MathProject.AssemblyInfoInputs.cache
+c:\Projects\CsharpProjects\MathProject\obj\Debug\net9.0\MathProject.AssemblyInfo.cs
+c:\Projects\CsharpProjects\MathProject\obj\Debug\net9.0\MathProject.csproj.CoreCompileInputs.cache
+c:\Projects\CsharpProjects\MathProject\obj\Debug\net9.0\MathProject.dll
+c:\Projects\CsharpProjects\MathProject\obj\Debug\net9.0\refint\MathProject.dll
+c:\Projects\CsharpProjects\MathProject\obj\Debug\net9.0\MathProject.pdb
+c:\Projects\CsharpProjects\MathProject\obj\Debug\net9.0\MathProject.genruntimeconfig.cache
+c:\Projects\CsharpProjects\MathProject\obj\Debug\net9.0\ref\MathProject.dll
