@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Projects\\CsharpProjects\\MathProject\\MathProject.csproj": {}
+    "C:\\Projects\\CsharpProjects\\MathProject\\MathProject.csproj": {}
   },
   "projects": {
-    "c:\\Projects\\CsharpProjects\\MathProject\\MathProject.csproj": {
+    "C:\\Projects\\CsharpProjects\\MathProject\\MathProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Projects\\CsharpProjects\\MathProject\\MathProject.csproj",
+        "projectUniqueName": "C:\\Projects\\CsharpProjects\\MathProject\\MathProject.csproj",
         "projectName": "MathProject",
-        "projectPath": "c:\\Projects\\CsharpProjects\\MathProject\\MathProject.csproj",
+        "projectPath": "C:\\Projects\\CsharpProjects\\MathProject\\MathProject.csproj",
         "packagesPath": "C:\\Users\\gisne\\.nuget\\packages\\",
-        "outputPath": "c:\\Projects\\CsharpProjects\\MathProject\\obj\\",
+        "outputPath": "C:\\Projects\\CsharpProjects\\MathProject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
