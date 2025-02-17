@@ -12,3 +12,4 @@ c:\Projects\CsharpProjects\MathProject\obj\Debug\net9.0\refint\MathProject.dll
 c:\Projects\CsharpProjects\MathProject\obj\Debug\net9.0\MathProject.pdb
 c:\Projects\CsharpProjects\MathProject\obj\Debug\net9.0\MathProject.genruntimeconfig.cache
 c:\Projects\CsharpProjects\MathProject\obj\Debug\net9.0\ref\MathProject.dll
+c:\Projects\CsharpProjects\MathProject\obj\Debug\net9.0\MathProject.sourcelink.json
