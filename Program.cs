@@ -1,5 +1,5 @@
 ﻿using System;
-//проверка слияния веток разработки а если я вот так изменю коммент то слияние веток сработает? а схуяли, где мои изменения?!!!!!
+//проверка слияния веток разработки а если я вот так изменю коммент то слияние веток сработает? а схуяли, где мои изменения?!!!fdsfdsfsdfsfs!!
 namespace Matan
 {
     public class MatrixCramer
@@ -8,7 +8,7 @@ namespace Matan
 
         public double Rations()
         {
-            Console.Write("Введите коэффициент (a11, a12, a21, a22, b1, b2): ");
+            Console.Write("Введите коэффицgggggggиент (a11, a12, a21, a22, b1, b2): ");
             string coef = Console.ReadLine();
             Console.Write("Введите значение для " + coef + ": ");
             
