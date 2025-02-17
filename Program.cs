@@ -53,5 +53,14 @@ namespace Matan
             Console.WriteLine($"Уравнение решено: X = {x}, Y = {y}");
         }
 
+        static void Main()
+        {
+            MatrixCramer matrix = new MatrixCramer();
+            for (int i = 0; i < 6; i++)
+            {
+                matrix.Rations();
+            }
+            matrix.Cramer();
+        }
     }
 }
